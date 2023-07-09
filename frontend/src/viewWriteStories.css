@@ -1,0 +1,91 @@
+/* 806 x 1000 */
+#Normal_Green_Lake{
+    position: absolute;
+    top: 60px;
+    left: 430px;
+    width: 600px;
+    height: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#Normal_Ghibli_House{
+    position: absolute;
+    top: 30px;
+    left: 525px;
+    height: 560px;
+    width: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+
+}
+
+#Normal_Carosel{
+    position: absolute;
+    top: 30px;
+    left: 525px;
+    height: 560px;
+    width: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#Normal_Cooling_Mist{
+    position: absolute;
+    top: 30px;
+    left: 525px;
+    height: 560px;
+    width: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#writeStoryButton{
+    position: absolute;
+    top: 690px;
+    left: 513px;
+    border-radius: 8px;
+    border-width: 8px;
+    border-color: bisque;
+    font-family:monospace;
+    padding: 30px;
+    background-color:bisque;
+}
+
+#viewStoryButton{
+    position: absolute;
+    top: 690px;
+    left: 795px;
+    border-radius: 8px;
+    border-width: 8px;
+    border-color: bisque;
+    font-family:monospace;
+    padding: 30px;
+    background-color:bisque;
+}
+
+#details{
+    position: absolute;
+    /* top: 610px; */
+    /* left: 595px; */
+    background-color: bisque;
+    color: black;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 3px;
+    border-color: black;
+    border-style: dashed;
+    text-align: center;
+}
+
+#signature{
+    position: absolute;
+    height: auto;
+    width: 150px;
+    left: 918px;
+    top: 553px;
+}

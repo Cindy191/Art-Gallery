@@ -1,0 +1,13 @@
+body{
+    /* white-art-gallery.jpeg */
+    /* background-image: url("../public/images/art_gallery_pic.png"); */
+    background-image: url("../public/images/white-art-gallery.jpeg");
+    background-size: 103%;
+    /* background-position: bottom; */
+    /* background-size: cover; */
+    /* height: 100%; */
+
+    /* background-image: url("../public/images/white-brick-showroom.avif");
+    background-size: 115%;
+    background-position: center bottom; */
+}

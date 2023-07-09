@@ -1,0 +1,218 @@
+/* body{
+    background-image: url("../public/images/black-stock.jpeg");
+    background-size: 102%;
+} */
+/* ----------------------- GREEN-LAKE ------------------------*/
+#Framed_Slanted_Green_Lake{
+    position:absolute;
+    /* left: 75px; 
+    top: 235px;
+    width: 195px;
+    height: auto; */
+    left: 66px; 
+    top: 270px;
+    width: 177px;
+    height: 188px;
+}
+
+#Slanted_Green_Lake{
+    position:absolute;
+    left: 80px; 
+    top: 290px;
+    width: 155px;
+    /* filter:blur(4px); */
+}
+
+/* ----------------------- GHIBLI-HOUSE ------------------------*/
+#Framed_Ghibili_House{
+    position: absolute;
+    left: 448px;
+    top: 304px;
+    height: 163px;
+    width: auto;
+}
+
+#Ghibili_House{
+    position: absolute;
+    left: 470px;
+    top: 320px;
+    height: 130px;
+    /* filter:blur(3px); */
+}
+
+/* ----------------------- CAROSEL-PATH ------------------------*/
+#Framed_Carosel_Path{
+    position: absolute;
+    left: 904px;
+    top: 304px;
+    height: 163px;
+    width: 135px;
+}
+
+#Carosel_Path{
+    position: absolute;
+    left: 925px;
+    top: 320px;
+    height: 130px;
+    /* filter:blur(3px); */
+}
+
+/* ----------------------- COOLING-MIST ------------------------*/
+#Framed_Slanted_Cooling-Mist{
+    position: absolute;
+    left: 1290px;
+    top: 248px;
+    height: 240px;
+    width: 137px;
+}
+
+#Slanted_Cooling_Mist{
+    position: absolute;
+    left: 1300px;
+    top: 262px;
+    height: 209px;
+    /* filter:blur(5px); */
+}
+
+/* ------------- PLANTS --------------- */
+#white-plant{
+    position: absolute;
+    top: 337px;
+    left: 1200px;
+    height: 200px;
+    width: 45px;
+}
+
+
+/* ------------- Silhuottes --------------- */
+
+#shortBlond{
+    position: absolute;
+    top: 370px;
+    left: 260px;
+    height: 320px;
+}
+
+#longOrangeHair{
+    position: absolute;
+    top: 385px;
+    left: 383px;
+    height: 320px;
+    transform: rotateY(180deg);
+}
+
+#brownTank{
+    position: absolute;
+    top: 400px;
+    left: 828px;
+    height: 330px;
+}
+
+#orangeHoodie{
+    position: absolute;
+    top: 390px;
+    left: 670px;
+    height: 100px;
+
+}
+
+#crossedArms{
+    position: absolute;
+    top: 440px;
+    left: 1070px;
+    height: 355px;
+    transform: rotateY(180deg)
+}
+
+#blueLongSleeve{
+    position: absolute;
+    top: 430px;
+    left: 880px;
+    height: 340px;
+}
+
+#shortBlackHair{
+    position: absolute;
+    top: 410px;
+    left: 190px;
+    height: 350px;
+}
+
+#overallsDuo{
+    position: absolute;
+    top: 370px;
+    left: 710px;
+    height: 190px;
+}
+
+#joy{
+    position: absolute;
+    top: 390px;
+    left: 530px;
+    height: 280px;
+    transform: rotateY(180deg);
+}
+
+#curlyGrayPoof{
+    position: absolute;
+    top: 400px;
+    left: 1200px;
+    height: 330px;
+    transform: rotateY(180deg)
+}
+
+#purpleStarPants{
+    position: absolute;
+    top: 428px;
+    left: 420px;
+    height: 330px;
+}
+
+/* ------------------ BACKGROUND PAINTINGS -----------------*/
+
+#frame-far-Painting1{
+    position: absolute;
+    left: 690px;
+    top: 385px;
+    height: 44px;
+    width: 36px;
+    filter:blur(1px);
+}
+
+#far-Painting1{
+    position: absolute;
+    left: 693px;
+    top: 388px;
+    height: 38px;
+    filter:blur(1px);
+}
+
+#background_plaque_Path{
+    background-color: rgb(211, 160, 50);
+    border-radius: 3px;
+    color:black;
+    position:absolute;
+    left: 699px;
+    top: 430px;
+    font-family: cursive;
+    font-size: 2px;
+    width: 2px;
+    height: 1px;
+}
+
+#frame-far-Painting2{
+    position: absolute;
+    left: 772px;
+    top: 385px;
+    height: 44px;
+    width: 36px;
+    filter:blur(1px);
+}
+
+#far-Painting2{
+    position: absolute;
+    left: 776px;
+    top: 388px;
+    height: 38px;
+    filter:blur(1px);
+}

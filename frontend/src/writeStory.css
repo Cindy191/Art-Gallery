@@ -1,0 +1,90 @@
+#titleLabel{
+    position: absolute;
+    color: white;
+    top: 570px;
+    left: 490px;
+}
+
+#titleBox{
+    position: absolute;
+    top: 570px;
+    left: 530px;
+}
+
+#userNameLabel{
+    position: absolute;
+    color: white;
+    top: 570px;
+    left: 730px;
+}
+
+#userNameBox{
+    position: absolute;
+    top: 570px;
+    left: 814px;
+}
+
+#storyBodyBox{
+    position: absolute;
+    top: 620px;
+    left: 233px;
+}
+
+#publishButton{
+    position: absolute;
+    background-color: green;
+    color: white;
+    top: 760px;
+    left: 1270px;
+}
+
+/* images */
+#Green_Lake_Writing{
+    position: absolute;
+    top: 47px;
+    left: 430px;
+    width: 600px;
+    height: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#Ghibli_House_Writing{
+    position: absolute;
+    top: 30px;
+    left: 548px;
+    height: 500px;
+    width: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#Carosel_Writing{
+    position: absolute;
+    top: 30px;
+    left: 548px;
+    height: 500px;
+    width: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#Cooling_Mist_Writing{
+    position: absolute;
+    top: 30px;
+    left: 548px;
+    height: 500px;
+    width: auto;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#signature{
+    position: absolute;
+    height: auto;
+    width: 150px;
+}

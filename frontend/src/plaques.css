@@ -1,0 +1,55 @@
+/* body{
+    background-image: url("../public/images/black-stock.jpeg");
+    background-size: 102%;
+} */
+
+#plaque_Lake{
+    background-color: rgb(239, 181, 56);
+    border-radius: 8px;
+    color:black;
+    position:absolute;
+    left: 140px;
+    top: 452px;
+    font-family: cursive;
+    font-size: 10px;
+    perspective: 50px;
+    rotate: -9deg;
+    transform: rotateY(30deg) rotateX(-20deg);
+}
+
+#plaque_House{
+    background-color: rgb(211, 160, 50);
+    border-radius: 8px;
+    color:black;
+    position:absolute;
+    left: 485px;
+    top: 467px;
+    font-family: cursive;
+    font-size: 7px;
+}
+
+#plaque_Path{
+    background-color: rgb(211, 160, 50);
+    border-radius: 8px;
+    color:black;
+    position:absolute;
+    left: 940px;
+    top: 467px;
+    font-family: cursive;
+    font-size: 7px;
+}
+
+#plaque_Mist{
+    background-color: rgb(239, 181, 56);
+    border-radius: 8px;
+    color:black;
+    position:absolute;
+    left: 1308px;
+    top: 482px;
+    font-family: cursive;
+    font-size: 10px;
+    perspective: 50px;
+    rotate: 9deg;
+    /* transform: rotateY(-50deg); */
+    transform: rotateY(-50deg) rotateX(-10deg);
+}
