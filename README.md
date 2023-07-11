@@ -20,7 +20,7 @@ Tech Stack/Tools:
 - LunaPic (photoshopping)
 
 
-Instructions on how to view it:
+Instructions on how to view and use WebApp:
 
 1.) Create new folder in desktop of your laptop
 
