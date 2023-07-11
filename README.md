@@ -21,4 +21,13 @@ Tech Stack/Tools:
 
 
 Instructions on how to view it:
+1.) Create new folder in desktop of your laptop
+2.) Download all files from github into that new folder
+3.) Drag folder to Visual Studio Code app to open the files in that app
+4.) Once open, go to "View" on top of laptop and click "terminal"
+5.) Type in Terminal: "cd backend"  => press enter, then "npm run devStart" => press enter
+6.) Open new terminal by clicking "+" sign in top right corner of terminal box
+7.) Type in Terminal: "cd frontend" => press enter, then "npm start", press enter
+
+Complete!
 
