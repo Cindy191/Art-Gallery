@@ -1,5 +1,4 @@
-# Art-Gallery
-Interactive Story Platform
+# Interactive Story Platform
 
 Concept:
 Users can look at different artworks and use their creativity to contribute to the art piece by writing stories for these art pieces. 
