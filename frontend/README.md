@@ -21,6 +21,7 @@ Tech Stack/Tools:
 Issues & Fixes:
 
 ISSUE #1: Needed a way to store and retrieve the submitted stories by user.
+
 SOLUTION: Learn how to use a databse like MongoDB and implement it in the project.
 
 Overview process (Start to Finish):
