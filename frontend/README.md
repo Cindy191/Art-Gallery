@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+Concept:
+Users can look at different artworks and use their creativity to contribute to the art piece by writing stories for these art pieces. They are also able to read other stories submitted by other users.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features: 
+Look at different art pieces
+Write and submit stories for an art piece
+View other stories other people wrote
 
-## Available Scripts
+Tech Stack/Tools:
+- React JS: frontend
+- Express JS: backend (API)
+- Node JS: backend (run-time environment)
+- MongoDB: noSQL database to store and retrieve the submitted stories
+- Html & CSS: basic layout & styling
+- Postman (development tool): test connection between client and server
+- LunaPic (photoshopping)
 
-In the project directory, you can run:
+Issues & Fixes:
+ISSUE #1: Needed a way to store and retrieve the submitted stories by user
+SOLUTION: Leanr how to use a databse like MongoDB and implement it in the project.
 
-### `npm start`
+Overview process (Start to Finish):
+- Developed Interactive Art Gallery Idea
+- Acquired photos of the art pieces
+- Drew a layout of the desired frontend interface
+- Created a mongoDB database
+- Set up a backend server (server.js file): Import EXPRESS, connect to mongoDB database, create web endpoints
+- Tested endpoints with PostMan to ensure connection between client-side and server-side
+- Prep the photos to be used in the frontend component
+- Created react components to build GUI and connected with backend server and database
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Complete!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
