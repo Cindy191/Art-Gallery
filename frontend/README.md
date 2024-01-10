@@ -10,9 +10,9 @@ Features:
 
 Tech Stack/Tools:
 
-- React JS: frontend
-- Express JS: backend (API)
-- Node JS: backend (run-time environment)
+- React JS (JS library): frontend
+- Express JS: backend
+- Node JS (run-time environment): backend
 - MongoDB: noSQL database to store and retrieve the submitted stories
 - Html & CSS: basic layout & styling
 - Postman (development tool): test connection between client and server
