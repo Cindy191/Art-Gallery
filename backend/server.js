@@ -70,19 +70,6 @@ app.post('/Green-Lake-Stories', async(req, res) => {
     }
 })
 
-// app.patch('/Green-Lake-Stories/:id', async (req, res) => {
-//     try {
-//         const {id} = req.params;
-//         const greenLakeStories = await GLStories.findByIdAndUpdate(id, req.body); //req.body contains updated value for just like property
-//         if(!greenLakeStories){
-//             return res.status(404).json({message: `Cannot find any product with ${id}.`})
-//         }
-//         const updatedGreenLakeStories = await GLStories.findById(id);
-//         res.status(200).json({updatedGreenLakeStories});
-//     } catch (error) {
-//         res.status(500).json({message: error.message});
-//     }
-// })
 
 //Ghibli-House-Stories Collection
 app.get('/Ghibli-House-Stories', async(req, res) => {
