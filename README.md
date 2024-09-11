@@ -1,5 +1,7 @@
 # Interactive Story Platform
 
+Link to Video Demo: https://drive.google.com/file/d/1clE4MOjVWU5DrPcljXhsIe1AZEIHTrvW/view?usp=drive_link
+
 Concept:
 Users can look at different artworks and use their creativity to contribute to the art piece by writing stories for these art pieces. 
 They are also able to read other stories submitted by other users.
@@ -36,4 +38,6 @@ Instructions on how to view and use WebApp:
 7.) Type in Terminal: "cd frontend" => press enter, then "npm start", press enter
 
 Complete!
+
+
 
